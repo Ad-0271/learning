@@ -1,1 +1,1 @@
-console.log('this is 2 in branch2');
+console.log('this is the edited content in file2 from branch1');
